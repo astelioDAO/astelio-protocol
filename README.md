@@ -1,2 +1,7 @@
-# astelio-protocol
-The future of decentralized finance
+# Astelio Protocol
+
+No team. No promises. Just mathematics.
+
+## Coming Soon
+
+The future of DeFi is mathematical.
